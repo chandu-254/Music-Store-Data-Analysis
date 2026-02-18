@@ -41,7 +41,7 @@ The dataset consists of multiple relational tables, including:
  
  + Certain genres dominate sales across multiple regions
  
- + The USA and Europe generate the highest sales revenue
+ + The USA  generate the highest sales invoices
  
 +  Popular artists drive repeated customer purchases
 
